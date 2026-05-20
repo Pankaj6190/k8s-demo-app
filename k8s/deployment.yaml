@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: web-server
-        image: YOUR_DOCKERHUB_USERNAME/web-server:latest
+        image: Pankaj6190/web-server:latest
         ports:
         - containerPort: 80
